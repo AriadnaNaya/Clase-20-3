@@ -1,0 +1,58 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar aplicación de Tareas",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Break",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "AAAA",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "BBBB",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "CCCC",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Titulo",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Titulo 2",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Titulo 2",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Titulo 2",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "lavar",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "hacer la mesa",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Ver github",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "Nueva tarea",
+  "estado": "pendiente"
+ }
+]
