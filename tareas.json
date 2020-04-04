@@ -1,0 +1,30 @@
+[
+ {
+  "descripcion": "Comprar Pokemon Sword",
+  "estado": "Cumplido, dado vuelta"
+ },
+ {
+  "descripcion": "Comprar Sekiro",
+  "estado": "Pendiente"
+ },
+ {
+  "descripcion": "Comprar Super Smash Brothers",
+  "estado": "Cumplido, dado vuelta"
+ },
+ {
+  "descripcion": "Comprar dolares",
+  "estado": "Pendiente"
+ },
+ {
+  "descripcion": "Comprar sillon ",
+  "estado": "Pendiente"
+ },
+ {
+  "descripcion": "Recuperar PlayStation",
+  "estado": "Pendiente"
+ },
+ {
+  "descripcion": "Agregar funcion modificarEstado",
+  "estado": "Cumplido"
+ }
+]
